@@ -1,0 +1,17 @@
+@font-face {
+  font-family: VeryHighSpeedTransport;
+  src: url("VeryHighSpeedTransport.ttf");
+}
+
+body {
+  margin: 12px;
+}
+
+p {
+  width: 66.67%;
+  max-width:640px;
+  line-height:1.5em;
+  font-family: VeryHighSpeedTransport, Helvetica, Arial, sans-serif;
+  font-size:20px;
+}
+
